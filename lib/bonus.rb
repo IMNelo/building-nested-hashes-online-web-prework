@@ -21,8 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  epic_tragedy[:montague][:patriarch][:matriarch][:hero]["status"].change_to
-  [:name][:age][:status] = "dead"
+
   
     #epic_tragedy[:capulet][:patriarch][:matriarch][:heroine][:status] = "dead"  #["name"]["age"]["status"] = "dead"
   
